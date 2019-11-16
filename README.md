@@ -1,3 +1,1 @@
-# struts2
-
-Repositório para pratica no framework Struts2
+# Struts2 - Hello World
