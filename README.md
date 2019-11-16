@@ -2,5 +2,4 @@
 
 Repositório para pratica no framework Struts2
 
-- Hello world
-https://github.com/SoldierJVX/struts2/tree/hello-world
+- Hello world - https://github.com/SoldierJVX/struts2/tree/hello-world
