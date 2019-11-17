@@ -1,1 +1,1 @@
-# Struts2 - Hello World
+# Struts2 - Tags
