@@ -1,3 +1,3 @@
-# Struts2 - Tags
+# Struts2 - Coding actions
 
-https://struts.apache.org/getting-started/using-tags.html
+https://struts.apache.org/getting-started/coding-actions.html
