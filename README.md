@@ -1,3 +1,3 @@
-# Struts2 - Coding actions
+# Struts2 - Processing Forms
 
-https://struts.apache.org/getting-started/coding-actions.html
+https://struts.apache.org/getting-started/processing-forms.html
