@@ -1,8 +1,8 @@
-package controller;
+package com.study.controller;
 
 import com.opensymphony.xwork2.ActionSupport;
 
-import model.MessageStore;
+import com.study.store.MessageStore;
 
 public class HelloWorldAction extends ActionSupport {
     private MessageStore messageStore;

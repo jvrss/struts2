@@ -1,4 +1,4 @@
-package model;
+package com.study.store;
 
 public class MessageStore {
     private String message;

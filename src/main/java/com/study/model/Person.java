@@ -1,4 +1,4 @@
-package model;
+package com.study.model;
 
 public class Person {
     private String firstName;

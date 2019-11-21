@@ -1,8 +1,8 @@
-package controller;
+package com.study.controller;
 
 import com.opensymphony.xwork2.ActionSupport;
 
-import model.Person;
+import com.study.model.Person;
 
 public class RegisterAction extends ActionSupport {
 
@@ -11,7 +11,7 @@ public class RegisterAction extends ActionSupport {
     private Person personBean;
 
     public String execute() throws Exception {
-        //call Service class to store personBean's state in database
+        //call Service class to com.study.store personBean's state in database
 
         return SUCCESS;
     }
