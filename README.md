@@ -7,3 +7,4 @@ Repositório para pratica no framework Struts2
 - Coding actions - https://github.com/SoldierJVX/struts2/tree/coding-action
 - Processing Forms - https://github.com/SoldierJVX/struts2/tree/processing-forms
 - Form Validation - https://github.com/SoldierJVX/struts2/tree/form-validation
+- Message resource files - https://github.com/SoldierJVX/struts2/tree/message-resource-files
