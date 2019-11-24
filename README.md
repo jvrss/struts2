@@ -1,11 +1,6 @@
-# Struts2
+# Struts2 - Hibernate com db2
 
-Repositório para pratica no framework Struts2
+Referencias para desenvolvimento:
 
-- Hello world - https://github.com/SoldierJVX/struts2/tree/hello-world
-- Tags - https://github.com/SoldierJVX/struts2/tree/tags
-- Coding actions - https://github.com/SoldierJVX/struts2/tree/coding-action
-- Processing Forms - https://github.com/SoldierJVX/struts2/tree/processing-forms
-- Form Validation - https://github.com/SoldierJVX/struts2/tree/form-validation
-- Message resource files - https://github.com/SoldierJVX/struts2/tree/message-resource-files
-- Hibernate com db2 - https://github.com/SoldierJVX/struts2/tree/hibernate-db2
+- https://www.journaldev.com/3557/struts2-hibernate-integration-example-tutorial
+- https://www.db2tutorial.com/
