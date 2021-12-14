@@ -10,7 +10,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 		<struts2.version>2.5.20</struts2.version>
-		<log4j2.version>2.12.1</log4j2.version>
+		<log4j2.version>2.16.0</log4j2.version>
 	</properties>
 	<dependencies>
 		<dependency>
