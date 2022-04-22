@@ -9,7 +9,7 @@
 	<name>struts2 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<struts2.version>2.5.20</struts2.version>
+		<struts2.version>2.5.30</struts2.version>
 		<log4j2.version>2.12.1</log4j2.version>
 	</properties>
 	<dependencies>
